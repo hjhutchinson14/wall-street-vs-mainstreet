@@ -1,0 +1,7 @@
+pandas
+numpy
+fredapi
+statsmodels
+matplotlib
+seaborn
+python-dotenv
